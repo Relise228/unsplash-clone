@@ -1,0 +1,12 @@
+.auth-status {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  > button {
+    width: 200px;
+    height: 30px;
+  }
+}
